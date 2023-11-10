@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Gain focus and hit it out of the park
+Gain focus and hit it out of the park </br>
 컴퓨터 전공을 좋아하는 개발자 김담원입니다
 
 <!--
