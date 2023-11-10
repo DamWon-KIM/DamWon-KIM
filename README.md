@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+Gain focus and hit it out of the park
+컴퓨터 전공을 좋아하는 개발자 김담원입니다
+
 <!--
 **DamWon-KIM/DamWon-KIM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
