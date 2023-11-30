@@ -1,7 +1,6 @@
 ### Hi there 👋
---- UPDATE 중 ---
+--- UPDATE 중 --- </br>
 Gain focus and hit it out of the park </br>
-컴퓨터 전공을 좋아하는 개발자 김담원입니다 </br>
 불투명한 상황에서 앞으로 나아가는 법을 배웠습니다 </br>
 함께하는 성장을 지향합니다
 <!--
