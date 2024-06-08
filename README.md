@@ -2,7 +2,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Hi~!!%20I'm%20DamWonKIM)
 
 ### Gain focus and hit it out of the park </br>
-불투명한 상황에서 앞으로 나아가는 법을 배웠습니다 </br>
 함께하는 성장을 지향합니다
 <!--
 **DamWon-KIM/DamWon-KIM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
